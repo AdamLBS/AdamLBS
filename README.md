@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Elaoumari</h1>
 <h3 align="center">A freelancer Android Developper and Epitech Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamlbs&label=Profile%20views&color=0e75b6&style=flat" alt="adamlbs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adamlbs2" target="blank"><img src="https://img.shields.io/twitter/follow/adamlbs2?logo=twitter&style=for-the-badge" alt="adamlbs2" /></a> </p>
 
