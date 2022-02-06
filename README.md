@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Elaoumari</h1>
 <h3 align="center">A freelance Android Developper and Epitech Student</h3>
 
-
-<p align="left"> <a href="https://twitter.com/adamlbs2" target="blank"><img src="https://img.shields.io/twitter/follow/adamlbs2?logo=twitter&style=for-the-badge" alt="adamlbs2" /></a> </p>
-
 - 🔭 I’m currently working on [LineFlag](https://github.com/AdamLBS/LineFlag)
 
 - 🌱 I’m currently learning **C and C++**
