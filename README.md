@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LineFlag](https://github.com/AdamLBS/LineFlag)
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C**
 
 - 🔭 I’m also working on [Ma Rouvière](https://marouviere.fr)
 
