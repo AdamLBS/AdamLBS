@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Prévi+](https://previplus.fr), [My Intra](https://play.google.com/store/apps/details?id=com.adamlbs.myintra&hl=ln&gl=US) and [FireChaser](https://play.google.com/store/apps/details?id=com.dealcover.firechaser13)
 
-- 👨‍💻 All of my other projects are available at [admlbs.fr](admlbs.fr)
+- 👨‍💻 All of my other projects are available at [admlbs.fr](https://admlbs.fr)
 
 - 📫 You can reach me on my [LinkedIn](https://linkedin.com/in/adam-elaoumari) or via [email](mailto:adam@admlbs.fr)
 
