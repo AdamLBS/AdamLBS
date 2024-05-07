@@ -2,7 +2,7 @@
 <h3 align="center">I'm a C/C++ & Dart developper</h3>
 <h3 align="center">I'm also a student and full stack developper at Dealcover</h3>
 
-- 🔭 I’m currently working on [Prévi+](https://previplus.fr), [My Intra](https://play.google.com/store/apps/details?id=com.adamlbs.myintra&hl=ln&gl=US) and [FireChaser](https://play.google.com/store/apps/details?id=com.dealcover.firechaser13)
+- 🔭 I’m currently working on [Prévi+](https://previplus.fr), [My Intra](https://play.google.com/store/apps/details?id=com.adamlbs.myintra&hl=ln&gl=US) and [FireChaser](https://app.firechaser.fr)
 
 - 👨‍💻 All of my other projects are available at [admlbs.fr](https://admlbs.fr)
 
