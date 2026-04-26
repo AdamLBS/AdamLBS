@@ -21,7 +21,7 @@
   - [**Prévi+**](https://previplus.fr) — Local weather platform  
   - [**My Intra**](https://play.google.com/store/apps/details?id=com.adamlbs.myintra) — Epitech's internal app  
   - [**FireChaser**](https://app.firechaser.fr) — real-time wildfire alert app  
-  - [**LibrOpen**](https://libropen.fr) — open-source marketplace for collaborative software projects  
+  - [**LibrOpen**](https://libropen.com) — open-source marketplace for collaborative software projects  
   - [**HushNet**](https://github.com/hushnet) — E2EE messaging protocol built in **Rust**, based on **X3DH** + **Double Ratchet**
 
 - 🧠 Passionate about **secure architectures**, **threat detection**, and **DevSecOps** pipelines.
